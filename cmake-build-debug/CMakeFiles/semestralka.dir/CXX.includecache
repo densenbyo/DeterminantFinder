@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/records/PJC/sem/determinant_cpp/main.cpp
+iostream
+-
+queue
+-
+string
+-
+sstream
+-
+stdio.h
+-
+string.h
+-
+chrono
+-
+string
+-
+vector
+-
+matrix.hpp
+D:/records/PJC/sem/determinant_cpp/matrix.hpp
+
+D:/records/PJC/sem/determinant_cpp/matrix.cpp
+matrix.hpp
+D:/records/PJC/sem/determinant_cpp/matrix.hpp
+iostream
+-
+iomanip
+-
+cmath
+-
+
+D:/records/PJC/sem/determinant_cpp/matrix.hpp
+vector
+-
+
